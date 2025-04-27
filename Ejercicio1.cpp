@@ -1,15 +1,15 @@
-/*1. Crea un programa que simule un cajero autom·tico con las siguientes 
+/*1. Crea un programa que simule un cajero autom√°tico con las siguientes 
 opciones:
 1. Consultar saldo.
 2. Depositar dinero.
 3. Retirar dinero.
 4. Salir.
-ï Al iniciar, el saldo es de $500.
-ï Para depositar, el usuario debe ingresar el monto y sumarlo al saldo.
-ï Para retirar, el usuario debe ingresar el monto y verificar que el saldo 
+‚Ä¢ Al iniciar, el saldo es de $500.
+‚Ä¢ Para depositar, el usuario debe ingresar el monto y sumarlo al saldo.
+‚Ä¢ Para retirar, el usuario debe ingresar el monto y verificar que el saldo 
 sea suficiente; de lo contrario, mostrar un mensaje de error.
-ï El programa debe ejecutarse continuamente hasta que el usuario elija 
-la opciÛn de salir.*/
+‚Ä¢ El programa debe ejecutarse continuamente hasta que el usuario elija 
+la opci√≥n de salir.*/
 
 #include <iostream>
 using namespace std;
